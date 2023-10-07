@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <!-- https://github.com/BaeSuii/ -->
 <!-- October 07, 2023 -->
 
-div align="center">
-<img max-width="800" src="https://github.com/BaeSuii/baesuii/master/assets/Github-profile-baesuii.gif"/>
+<div align="center">
+<img max-width="800" src="https://github.com/BaeSuii/baesuii/blob/main/assets/Github-profile-baesuii.gif"/>
 </div>
 
 
