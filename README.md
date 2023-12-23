@@ -86,10 +86,11 @@
     <p align="center">
         <br>
         <!-- Activity Widget -->
-        <img alt="Bea Sofia Balauro's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BaeSuii&show_icons=true&theme=radical"/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaeSuii&theme=radical">
+        <img alt="Bea Sofia Balauro's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BaeSuii&show_icons=true&theme=radical" width = "500"/>
         <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaeSuii&layout=compact&theme=radical" width = 500>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaeSuii&theme=radical" width="500"/>
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaeSuii&layout=compact&theme=radical" width = "500"/>
 </details>
 
 <!-- Footer -->
