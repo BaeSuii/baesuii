@@ -3,8 +3,14 @@
 
 <!-- About Me Overview -->
 <div align="center">
-<img max-width="800" src="https://github.com/BaeSuii/baesuii/blob/main/assets/Github-profile-baesuii.gif"/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Madimi+One&size=35&pause=6000&color=F7F7F7&multiline=true&repeat=true&random=false&width=900&lines=%F0%9F%8C%B1%F0%9F%8D%84+HELLO+%7C+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+%7C+%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%7C+KUMUSTA+%F0%9F%8D%84%F0%9F%8C%B1" alt="Typing SVG" /></a>
 </div>
+<br>
+<li>✨My Name is Bea Sofia Balauro. I am an undergraduate student of BS IT Major in Software Development.</li>
+<li>✏️On the side, I am also studying Backend and Cybersecurity.</li>
+<li>🎮Currently working as Game Developer/Integrator. Before that, I am a 2D/3D Game Animator.</li>   
+<li>⚔️After obtaining my Senior High diploma, I began working to support myself, pausing for few years before pursuing a college degree.</li>
+<li>💕Interests: Games, Tech, Music, Shows, Memes, Animals</li>
 
 <!-- Tools -->
 <div align = "center">
@@ -93,10 +99,11 @@
 <!-- Footer -->
 <h2> </h2>
 <h3 align="center"> 🌱🍄 Ｔｈａｎｋ ｙｏｕ ｆｏｒ ｙｏｕｒ ｖｉｓｉｔ 🍄🌱 </h3>
-<img src="https://komarev.com/ghpvc/?username=BaeSuii" style="max-width: 100%;">
-<!-- Spotify -->
+
 <div align="center">
-<img src="https://novatorem-baesuiis-projects.vercel.app/api/spotify"/>
+    <img src="https://komarev.com/ghpvc/?username=BaeSuii" style="max-width: 100%;">
+    <br>
+    <img src="https://novatorem-baesuiis-projects.vercel.app/api/spotify"/>
 </div>
 
 
