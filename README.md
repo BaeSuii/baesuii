@@ -95,8 +95,6 @@
 
 <p align="center">
     <img src="https://novatorem-baesuiis-projects.vercel.app/api/spotify"/>
-    <br>
-    <img src="https://komarev.com/ghpvc/?username=BaeSuii" style="max-width: 100%;">
 </p>
 
 
