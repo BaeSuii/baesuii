@@ -86,7 +86,7 @@
     <p align="center">
         <br>
         <!-- Activity Widget -->
-        <img alt="Bea Sofia Balauro's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BaeSuii&show_icons=true&theme=dark" width = "500"/>
+        <img alt="Bea Sofia Balauro's GitHub Stats" src="https://github-readme-stats-baesuiis-projects.vercel.app/api?username=BaeSuii&show_icons=true&theme=dark" width = "500"/>
         <br>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaeSuii&theme=dark" width="500"/>
         <br>
