@@ -8,13 +8,13 @@
 <br>
 <li>✨My Name is Bea Sofia Balauro. I am an undergraduate student of BS IT Major in Software Development.</li>
 <li>✏️On the side, I am also studying Backend and Cybersecurity.</li>
-<li>🎮Currently working as Game Developer/Integrator. Before that, I am a 2D/3D Game Animator.</li>   
+<li>🎮Currently working as Game Developer/Integrator.</li>   
 <li>⚔️After obtaining my Senior High diploma, I began working to support myself, pausing for few years before pursuing a degree.</li>
 <li>💕Interests: Games, Tech, Music, Shows, Memes, Animals</li>
 
 <!-- Tools -->
-<div align = "center">
-    <h2> 🌱🍄 Ｋｎｏｗｌｅｄｇｅ ／ Ｔｏｏｌｓ 🍄🌱 </h2>
+<h2 align="center"> 🌱🍄 Ｋｎｏｗｌｅｄｇｅ ／ Ｔｏｏｌｓ 🍄🌱 </h2> 
+<p align="center">  
     <a target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" style="max-width: 100%;">
     </a>
@@ -68,42 +68,35 @@
     <br>
     <details align="center">
     <summary> </summary>
-    <p align="center">
         <br>
         <!-- Most Used Language Widget -->
         <img src="https://github-readme-stats-baesuiis-projects.vercel.app/api/top-langs/?username=BaeSuii&layout=compact&theme=dark" width = "500"/>
         <br>
         <!-- Activity Widget -->
         <img alt="Bea Sofia Balauro's GitHub Stats" src="https://github-readme-stats-baesuiis-projects.vercel.app/api?username=BaeSuii&show_icons=true&theme=dark" width = "500"/>
-</details>
-    
-</div>
+    </details>
+</p>
 <br>
 
 <!-- Socials -->
-<div align="center">
-    <h2> 🌱🍄 Ｌｅｔ＇ｓ Ｃｏｎｎｅｃｔ ！ 🍄🌱 </h2>
-    <div id="badges" align = "center">
-        <a target="_blank" rel="noopener noreferrer nofollow">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" href="mailto:bbeasofia00@gmail.com" />
-        </a>
-        <a target="_blank" rel="noopener noreferrer nofollow">
-          <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" href="baesuii" />
-        </a>
-        <a target="_blank" rel="noopener noreferrer nofollow">
-          <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" href="https://linkedin.com/in/bea-sofia-b-69a67a184/" />
-        </a>
-    </div>
-</div>
+<h2 align="center"> 🌱🍄 Ｌｅｔ＇ｓ Ｃｏｎｎｅｃｔ ！ 🍄🌱 </h2>
+<p id="badges" align = "center">
+    <a href="mailto:bbeasofia00@gmail.com" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="https://discordapp.com/users/765850496014876712" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+    <a href="https://linkedin.com/in/bea-sofia-b-69a67a184/" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 <br>
 <!-- Footer -->
 <h2> </h2>
 <h3 align="center"> 🌱🍄 Ｔｈａｎｋ ｙｏｕ ｆｏｒ ｙｏｕｒ ｖｉｓｉｔ 🍄🌱 </h3>
 
-<div align="center">
+<p align="center">
     <img src="https://novatorem-baesuiis-projects.vercel.app/api/spotify"/>
     <br>
     <img src="https://komarev.com/ghpvc/?username=BaeSuii" style="max-width: 100%;">
-</div>
+</p>
 
 
