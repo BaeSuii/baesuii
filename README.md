@@ -101,9 +101,9 @@
 <h3 align="center"> 🌱🍄 Ｔｈａｎｋ ｙｏｕ ｆｏｒ ｙｏｕｒ ｖｉｓｉｔ 🍄🌱 </h3>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=BaeSuii" style="max-width: 100%;">
-    <br>
     <img src="https://novatorem-baesuiis-projects.vercel.app/api/spotify"/>
+    <br>
+    <img src="https://komarev.com/ghpvc/?username=BaeSuii" style="max-width: 100%;">
 </div>
 
 
