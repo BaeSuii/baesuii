@@ -9,52 +9,67 @@
 <!-- Tools -->
 <div align = "center">
     <h2> 🌱🍄 Ｋｎｏｗｌｅｄｇｅ ／ Ｔｏｏｌｓ 🍄🌱 </h2>
-    <a target = "_blank" rel = "noopener noreferrer">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" title = "Python" alt = "Python" width = "70" height = "70" style = "max-width: 100%;"> 
-    </a>        
-    <a target = "_blank" rel = "noopener noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title = "C#" alt = "C#" width = "70" height = "70" style = "max-width: 100%;">
+    <a target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" style="max-width: 100%;">
     </a>
-    <a target = "_blank" rel = "noopener noreferrer">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" title = "C++" alt = "C++" width = "70" height = "70" style = "max-width: 100%;">
+    <a target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" style="max-width: 100%;">
     </a>
-    <a target = "_blank" rel = "noopener noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title = "C" width = "70" height = "70" style = "max-width: 100%;">
+     <a target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" style="max-width: 100%;">
     </a>
-    <a target = "_blank" rel = "noopener noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title = "JavaScript" width = "70" height = "70" style = "max-width: 100%;">
+    <a target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Blender-E87D0D.svg?style=for-the-badge&logo=Blender&logoColor=white" style="max-width: 100%;">
     </a>
-    <a target = "_blank" rel = "noopener noreferrer">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" title = "HTML" alt = "HTML" width = "70" height = "70" style = "max-width: 100%;">
-    </a>
-    <a target = "_blank" rel = "noopener noreferrer">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" title = "CSS3" alt = "CSS3" width = "70" height = "70" style = "max-width: 100%;">
+    <a target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Spine-FF4000.svg?style=for-the-badge&logo=Spine&logoColor=white" style="max-width: 100%;">
     </a>
     <br>
-    <a target = "_blank" rel = "noopener noreferrer">
-        <img src="https://i.redd.it/tu3gt6ysfxq71.png" title = "Unity" width = "70" height = "70" style = "max-width: 100%;">
+    <a target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" style="max-width: 100%;">
     </a>
-    <a target = "_blank" rel = "noopener noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title = "Unreal Engine" width = "70" height = "70" style = "max-width: 100%;">
+    <a target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" style="max-width: 100%;">
     </a>
-    <a target = "_blank" rel = "noopener noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" title = "Godot" width = "70" height = "70" style = "max-width: 100%;">
+    <a target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="max-width: 100%;">
     </a>
-    <a target = "_blank" rel = "noopener noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title = "Git" width = "70" height = "70" style = "max-width: 100%;">
+    <a target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" style="max-width: 100%;">
     </a>
-    <a target = "_blank" rel = "noopener noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title = "VSCode" width = "70" height = "70" style = "max-width: 100%;">
+    <a target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=PowerShell&logoColor=white" style="max-width: 100%;">
     </a>
-    <a target = "_blank" rel = "noopener noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title = "Blender" width = "70" height = "70" style = "max-width: 100%;">
+     <a target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" style="max-width: 100%;">
+    </a>    
+    <br>
+    <a target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white" style="max-width: 100%;">
     </a>
-    <a target = "_blank" rel = "noopener noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-original.svg" title = "Maya" width = "70" height = "70" style = "max-width: 100%;">
+    <a target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" style="max-width: 100%;">
     </a>
-    <a target = "_blank" rel = "noopener noreferrer">
-        <img src="https://esotericsoftware.com/files/branding/spine_badge.png" title = "Spine 2D" width = "70" height = "70" style = "max-width: 100%;">
+    <a target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white" style="max-width: 100%;">
     </a>
+    <a target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white" style="max-width: 100%;">
+    </a>
+    <a target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" style="max-width: 100%;">
+    </a>
+    <br>
+    <details align="center">
+    <summary> </summary>
+    <p align="center">
+        <br>
+        <!-- Most Used Language Widget -->
+        <img src="https://github-readme-stats-baesuiis-projects.vercel.app/api/top-langs/?username=BaeSuii&layout=compact&theme=dark" width = "500"/>
+        <br>
+        <!-- Activity Widget -->
+        <img alt="Bea Sofia Balauro's GitHub Stats" src="https://github-readme-stats-baesuiis-projects.vercel.app/api?username=BaeSuii&show_icons=true&theme=dark" width = "500"/>
+</details>
     
 </div>
 <br>
@@ -63,38 +78,25 @@
 <div align="center">
     <h2> 🌱🍄 Ｌｅｔ＇ｓ Ｃｏｎｎｅｃｔ ！ 🍄🌱 </h2>
     <div id="badges" align = "center">
-        <a href="mailto:baesuii.arts@gmail.com" target = "_blank">
-          <img src="https://static-00.iconduck.com/assets.00/gmail-icon-1024x1024-09wrt8am.png" width = "70" height = "70" style = "max-width: 100%;" alt="Gmail"/>
+        <a target="_blank" rel="noopener noreferrer nofollow">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" href="mailto:bbeasofia00@gmail.com" />
         </a>
-        <a href="https://linkedin.com/in/bea-sofia-b-69a67a184/" target="_blank">
-          <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" width = "70" height = "70" style = "max-width: 100%;" alt="LinkedIn"/>
+        <a target="_blank" rel="noopener noreferrer nofollow">
+          <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" href="baesuii" />
         </a>
-        <a href="https://discordapp.com/users/1023428884085088279" target="_blank">
-          <img src="https://cdn.iconscout.com/icon/free/png-256/discord-2752210-2285027.png?w=128&f=avif" width = "70" height = "70" style = "max-width: 100%;" alt="Discord"/>
-        </a>  
-        <a href="https://steamcommunity.com/id/Harucchii" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png" width = "70" height = "70" style = "max-width: 100%;" alt="Steam"/>
+        <a target="_blank" rel="noopener noreferrer nofollow">
+          <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" href="https://linkedin.com/in/bea-sofia-b-69a67a184/" />
         </a>
     </div>
 </div>
 <br>
-
-<!-- Stats Section -->
-<h2 align="center"> 🌱🍄 Ｓｔａｔｓ 🍄🌱 </h2>
-<details align="center">
-    <summary> </summary>
-    <p align="center">
-        <br>
-        <!-- Activity Widget -->
-        <img alt="Bea Sofia Balauro's GitHub Stats" src="https://github-readme-stats-baesuiis-projects.vercel.app/api?username=BaeSuii&show_icons=true&theme=dark" width = "500"/>
-        <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaeSuii&theme=dark" width="500"/>
-        <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaeSuii&layout=compact&theme=dark" width = "500"/>
-</details>
-
 <!-- Footer -->
 <h2> </h2>
 <h3 align="center"> 🌱🍄 Ｔｈａｎｋ ｙｏｕ ｆｏｒ ｙｏｕｒ ｖｉｓｉｔ 🍄🌱 </h3>
+<img src="https://komarev.com/ghpvc/?username=BaeSuii" style="max-width: 100%;">
+<!-- Spotify -->
+<div align="center">
+<img src="https://novatorem-baesuiis-projects.vercel.app/api/spotify"/>
+</div>
 
 
