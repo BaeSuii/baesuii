@@ -9,7 +9,7 @@
 <li>✨My Name is Bea Sofia Balauro. I am an undergraduate student of BS IT Major in Software Development.</li>
 <li>✏️On the side, I am also studying Backend and Cybersecurity.</li>
 <li>🎮Currently working as Game Developer/Integrator. Before that, I am a 2D/3D Game Animator.</li>   
-<li>⚔️After obtaining my Senior High diploma, I began working to support myself, pausing for few years before pursuing a college degree.</li>
+<li>⚔️After obtaining my Senior High diploma, I began working to support myself, pausing for few years before pursuing a degree.</li>
 <li>💕Interests: Games, Tech, Music, Shows, Memes, Animals</li>
 
 <!-- Tools -->
