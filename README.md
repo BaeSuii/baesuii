@@ -70,10 +70,10 @@
     <summary> </summary>
         <br>
         <!-- Most Used Language Widget -->
-        <img src="https://github-readme-stats-baesuiis-projects.vercel.app/api/top-langs/?username=BaeSuii&layout=compact&theme=dark" width = "500"/>
+        <img src="https://github-readme-stats-baesuiis-projects.vercel.app/api/top-langs/?username=BaeSuii&layout=compact&theme=bear&size_weight=0.5&count_weight=0.5" width = "500"/>
         <br>
         <!-- Activity Widget -->
-        <img alt="Bea Sofia Balauro's GitHub Stats" src="https://github-readme-stats-baesuiis-projects.vercel.app/api?username=BaeSuii&show_icons=true&theme=dark" width = "500"/>
+        <img alt="Bea Sofia Balauro's GitHub Stats" src="https://github-readme-stats-baesuiis-projects.vercel.app/api?username=BaeSuii&show_icons=true&theme=bear&rank_icon=github&hide=stars,issues&include_all_commits=true" width = "500"/>
     </details>
 </p>
 <br>
