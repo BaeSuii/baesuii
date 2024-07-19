@@ -8,7 +8,7 @@
 <!-- Stats -->
 <h2 align="center"> 🌱🍄 ＧｉｔＨｕｂ　Ｓｔａｔｓ 🍄🌱 </h2> 
 <p align="center">  
-    <img src="https://github-readme-stats-baesuiis-projects.vercel.app/api/top-langs/?username=BaeSuii&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=0D1117" width = "300"/>
+    <img src="https://github-readme-stats-baesuiis-projects.vercel.app/api/top-langs/?username=BaeSuii&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=0D1117&hide=html,gdscript" width = "300"/>
     <img alt="Bea Sofia Balauro's GitHub Stats" src="https://github-readme-stats-baesuiis-projects.vercel.app/api?username=BaeSuii&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=0D1117&rank_icon=github&hide=stars,issues&include_all_commits=true" />
 </p>
 
