@@ -9,7 +9,7 @@
 <h2 align="center"> Ｉｎｔｅｒｅｓｔｓ</h2> 
 <p align="center"> 
     <a rel="noopener noreferrer nofollow">
-        <img src="https://skillicons.dev/icons?i=unity,blender,vscode,cs,css,js,react,kotlin,androidstudio" />
+        <img src="https://skillicons.dev/icons?i=unity,blender,figma,vscode,cs,css,js,react,kotlin,androidstudio" />
     </a>
 </p>
 
